@@ -1,0 +1,16 @@
+Partlist exported from C:/Users/pramod/Music/sliit 2019/PCB/V3/sliit 2019_V3.sch at 7/28/2019 6:09 PM
+
+Qty Value           Device                   Package                 Parts                                    Description         
+                                                                    
+8                   R-US_R0805               R0805                   R6, R7, R8, R9, R10, R11, R16, R17       RESISTOR, American symbol  
+4   104             C-USC1206                C1206                   C2, C9, C10, C11, C3, C5, C14, C1        CAPACITOR, American symbol
+6   10k             R-US_R1206               R1206                   R18, R19, R20, R21, R22, R24             RESISTOR, American symbol
+8   1k              R-US_R1206               R1206                   R1, R2, R3, R4, R5, R27, R28, R29        RESISTOR, American symbol
+6   220uF           CPOL-US153CLV-0505       153CLV-0505             C1, C4, C6, C7, C8, C16                  POLARIZED CAPACITOR, American symbol 
+2   7805TV          7805TV                   TO220V                  L7805_M1, L7805_M2                       Positive VOLTAGE REGULATOR
+8   IR              IR                       IR                      U$1, U$4, U$5, U$6, U$8, U$9, U$14, U$15                                                                                  
+2   L9110           L9110                    L9110                   U$2, U$3                                                                                                                  
+2   LD117AS12TR     LD117AS12TR              SOT223                  3V3OUT, 5VOUT                            Low drop fixed and adjustable positive voltage regulators 1 A
+3   green           LEDSMT1206               1206                    LED2, LED3, LED5                         LED                                                                              
+1   red             LEDSMT1206               1206                    LED1                                     LED                                                                              
+4   yellow          LEDSMT1206               1206                    LED-2, LED-3, LED-4, LED4                LED                                                                              

@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-07-05T11:04:07Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "sliit 2019_V3"
+        },
+        "Owner": "Pramod Sandaruwan <pramod.sandaruwan@eng.pdn.ac.lk>",
+        "Size": {
+            "X": 84,
+            "Y": 90.921494
+        }
+    }
+}
